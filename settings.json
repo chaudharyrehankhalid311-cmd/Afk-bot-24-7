@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheZerobrinesmp.aternos.me
-    ",
+    "ip": "TheZerobrinesmp.aternos.me",
     "port": 24797,
     "version": "1.20.1",
     "try-creative": false
